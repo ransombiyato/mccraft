@@ -1,0 +1,10 @@
+{
+    "minecraftten": {
+        "url": "https://example.com/MinecraftTen.ttf",
+        "description": "Minecraft style pixel font"
+    },
+    "pixel": {
+        "url": "https://example.com/pixel.ttf",
+        "description": "Pixel font"
+    }
+}

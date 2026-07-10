@@ -1,0 +1,6 @@
+{
+    "hello": {
+        "file": "/data/data/com.termux/files/home/hello_plugin.py",
+        "description": "Says hello from a plugin."
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "repos": [
+        "test_packages.json",
+        "another_packages.json"
+    ]
+}

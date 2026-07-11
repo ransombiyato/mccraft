@@ -1,0 +1,10 @@
+{
+    "packages": [
+        {
+            "name": "testpack",
+            "description": "A test MCCRAFT package",
+            "version": "1.0",
+            "url": "testpack.mcpkg"
+        }
+    ]
+}

@@ -13,7 +13,7 @@ def run(args=None):
     for module in pkgutil.iter_modules(["commands"]):
         commands.append(module.name)
 
-    print("Version: 0.1")
+    print("Version: 0.5 BETA")
     print("Commands loaded:", len(commands))
 
     if os.path.exists(os.path.expanduser("~/mccraft/config.json")):

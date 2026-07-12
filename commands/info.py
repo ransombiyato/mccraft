@@ -11,7 +11,7 @@ FONTS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "fonts")
 
 
 def run(args=None):
-    print("MCCRAFT v0.1")
+    print("MCCRAFT v0.5 BETA")
 
     if os.path.exists(CONFIG_FILE):
         with open(CONFIG_FILE, "r") as f:

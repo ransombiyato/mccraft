@@ -28,4 +28,5 @@ def run(args=None):
     else:
         print("Current font: default")
 
-    print("Version: 0.1")
+    print("Version: 0.5 BETA")
+
